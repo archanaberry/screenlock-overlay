@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base Theme Material3 yang fleksibel -->
+    <style name="Base.AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Di bawah ini bisa disesuaikan kalau pakai warna sendiri -->
+        <!--
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorSecondary">@color/my_secondary</item>
+        -->
+    </style>
+
+    <!-- Theme utama, mengarah ke Base -->
+    <style name="AppTheme" parent="Base.AppTheme" />
+
+    <!-- Tambahan untuk overlay transparan fullscreen -->
+    <style name="AppTheme.Transparent" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <!-- Kompatibilitas Android baru -->
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+    </style>
+
+</resources>
