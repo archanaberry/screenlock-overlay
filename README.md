@@ -43,4 +43,4 @@ It works seamlessly on **legacy Android 4.x tablets** up through **modern Androi
 ---
 
 ## Installation
-![Download Here](https://link.adsafelink.com/b4Dg8)
+[Download Here](https://link.adsafelink.com/b4Dg8)
