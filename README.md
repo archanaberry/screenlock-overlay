@@ -34,8 +34,8 @@ It works seamlessly on **legacy Android 4.x tablets** up through **modern Androi
 
 | Android 4 (API 16)         | Android 7 (API 24)        | Android 11 (API 30)       |
 |----------------------------|---------------------------|---------------------------|
-| ![](archanaberry/android11.png) | ![](archanaberry/android12.png) | ![](archanaberry/android13.png) |
-| ![](archanaberry/android1.png) | ![](archanaberry/android2.png) | ![](archanaberry/android3.png) |
+| ![Screenshot 1](archanaberry/android11.png) | ![Screenshot 1](archanaberry/android12.png) | ![Screenshot 1](archanaberry/android13.png) |
+| ![Screenshot 2](archanaberry/android1.png) | ![Screenshot 2](archanaberry/android2.png) | ![Screenshot 2](archanaberry/android3.png) |
 
 > *Placeholder images—replace with real screenshots from your device.*
 
