@@ -4,6 +4,7 @@ My free app and source code to implement and test an overlay-based touchscreen l
 ---
 
 ## Overview
+![Logo](archanaberry/logo.png)
 
 **ScreenLock-Overlay** is a lightweight Android app (API 16–34) that:
 
@@ -37,7 +38,7 @@ It works seamlessly on **legacy Android 4.x tablets** up through **modern Androi
 | ![Screenshot 1](archanaberry/screenshot11.png) | ![Screenshot 1](archanaberry/screenshot12.png) | ![Screenshot 1](archanaberry/screenshot13.png) |
 | ![Screenshot 2](archanaberry/screenshot1.png) | ![Screenshot 2](archanaberry/screenshot2.png) | ![Screenshot 2](archanaberry/screenshot3.png) |
 
-> *Placeholder images—replace with real screenshots from your device.*
+> *This is using Virtual Machine such as "Virtual Masger.apk" for stimulate app backward compatibility...*
 
 ---
 
