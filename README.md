@@ -4,7 +4,7 @@ My free app and source code to implement and test an overlay-based touchscreen l
 ---
 
 ## Overview
-![Logo](archanaberry/logo.png)
+<img src="archanaberry/logo.png" width="512" height="512">
 
 **ScreenLock-Overlay** is a lightweight Android app (API 16–34) that:
 
